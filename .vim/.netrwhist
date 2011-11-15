@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/patricknegri/Desenvolvimento/sct'
+let g:netrw_dirhist_2='/Users/patricknegri/Desenvolvimento/buzap_app'
+let g:netrw_dirhist_3='/Users/patricknegri/Desenvolvimento/wordpress/wp-content/themes/BarracaTroll'
+let g:netrw_dirhist_4='/Users/patricknegri/.rdoc'
+let g:netrw_dirhist_5='/Users/patricknegri/Desenvolvimento/os/rubyconf2011/content/style'
+let g:netrw_dirhist_6='/Users/patricknegri/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.1.1/lib/rails'
+let g:netrw_dirhist_7='/Users/patricknegri/Desenvolvimento/os/b/node_modules/arcabouco-js'
+let g:netrw_dirhist_8='/Users/patricknegri/Desenvolvimento/spaghetti/.git'
+let g:netrw_dirhist_9='/Users/patricknegri/Desenvolvimento/spaghetti/vendor/active_admin/lib/active_admin'

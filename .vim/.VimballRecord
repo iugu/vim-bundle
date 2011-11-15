@@ -1,0 +1,2 @@
+textobj-rubyblock.vba: call delete('/home/patrick/.vim/plugin/textobj/rubyblock.vim')|call delete('/home/patrick/.vim/doc/textobj-rubyblock.txt')
+cecutil.vba: call delete('/Users/patricknegri/.vim/plugin/cecutil.vim')|call delete('/Users/patricknegri/.vim/doc/cecutil.txt')
